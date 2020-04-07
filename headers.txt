@@ -1,0 +1,23 @@
+Request header
+
+User-agent: PostmanRuntime/7.23.0 (information about user agent originating request)
+Accept: */* (media types acceptable in response
+Cache-Control: no-cache (controls the cache if there is one)
+Postman-Token: 0f3cffd4-5b23-448a-885b-ee4da8f966ce (key for postman access)
+Host: www.googleapis.com (web server connecting to)
+Accept-Encoding: gzip, deflate, br (Type of encoding response expected)
+
+Response header
+
+Expires: Tue, 07 Apr 2020 05:25:18 GMT (no response after this time)
+Date: Tue, 07 Apr 2020 05:25:18 GMT (when it was recieved)
+Cache-Control: private, max-age=0, must-revalidate, no-transform (Rules for caching)
+ETag: "9UcOB1bEN68_AJTyyQbHlA2_Izc/JqoMdkgJs_LLuC7rxajMLJ94eck" (Id string that represents a specific version)
+Vary: Origin, X-Origin (How to match future response headers)
+Content-Type: application/json; charset=UTF-8 (Resource media type)
+Content-Encoding: gzip (How content is encoded)
+X-Content-Type-Options: nosniff (wether to opt out of mime type sniffing)
+X-Frame-Options: SAMEORIGIN (wether content is embedded or not to avoid clickjacking)
+X-XSS-Protection: 1; mode=block (Stops pages from loading when they detect reflected cross site scripting attacks)
+Server: GSE (contains information about the server and handles requests)
+Transfer-Encoding: Chunked (form of encoding used to transfer information to the user)
